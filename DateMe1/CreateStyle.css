@@ -1,0 +1,25 @@
+html,body,p{
+    padding: 5px 5px;
+        margin: 2px;
+        color: white;
+        background: #181818;
+}
+            .frm{
+                position: sticky;
+                background: white;
+            }
+            .DateMe{
+    font-size: 100px;
+    font-weight: 300;
+    color: purple;
+    position: fixed;
+    bottom: 435px;
+}
+.slogan{
+    font-size: 25px;
+    font-weight: 200;
+    color: white;
+    position: fixed;
+   bottom: 415px;
+   left: 20px;
+}

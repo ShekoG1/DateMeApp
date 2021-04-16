@@ -1,0 +1,18 @@
+html{
+    padding: 10px 10px;
+    margin: 2px 2px;
+}
+table{
+    margin :5px 0px;
+    
+}
+.WelcomeBanner{
+    font-family: comic;
+    font-weight: 100;
+    font-size: 25px;
+    background: #181818;
+    color: purple;
+}
+.Banner{
+    background: #181818;
+}
